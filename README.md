@@ -11,6 +11,9 @@
 *   **Farming Resources:** Access a library of best practices, modern techniques, and educational content for sustainable farming.
 
 ---
+## Screenshots
+![img](img.png)
+![img](img_1.png)
 
 ## 🛠️ Tech Stack
 
