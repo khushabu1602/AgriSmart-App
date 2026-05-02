@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "985762813019",
+    "firebase_url": "https://aggri-smart-default-rtdb.firebaseio.com",
+    "project_id": "aggri-smart",
+    "storage_bucket": "aggri-smart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985762813019:android:b0bbede346c47b28031b7e",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9zMImRV0771Kdx5zwphkSigkZwSFW-l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985762813019:android:557e08106ff3bb64031b7e",
+        "android_client_info": {
+          "package_name": "com.example.farmer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9zMImRV0771Kdx5zwphkSigkZwSFW-l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/baseline_chat_24"
+            android:title="AI Crop Assistant" />
+
+        <item
+            android:id="@+id/nav_scheme"
+            android:icon="@drawable/baseline_view_list_24"
+            android:title="Government Scheme" />
+
+        <item
+            android:id="@+id/nav_market"
+            android:icon="@drawable/baseline_store_24"
+            android:title="Market Prices" />
+
+        <item
+            android:id="@+id/nav_realtimemarket"
+            android:icon="@drawable/mapicon"
+            android:title="Realtime Market Prices" />
+
+        <item
+            android:id="@+id/nav_stores"
+            android:icon="@drawable/market"
+            android:title="Near By Stores" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/browser"
+            android:title="News/Latest Updates"
+            />
+
+        <item
+            android:id="@+id/nav_rental"
+            android:icon="@drawable/baseline_featured_play_list_24"
+            android:title="Rental Machinery"
+            />
+
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_baseline_ondemand_video_24"
+            android:title="Videos" />
+
+        <item
+            android:id="@+id/nav_profiles"
+            android:icon="@drawable/ic_account_circle_24"
+            android:title="My Account" />
+
+    </group>
+
+    <item android:title="Others">
+
+        <menu>
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_lock_24"
+                android:title="Privacy"
+                />
+
+            <item
+                android:id="@+id/nav_aboutapp"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="About App"
+
+                />
+
+            <item
+                android:id="@+id/nav_aboutdeveloper"
+                android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+                android:title="About Developer"
+                android:visible="false"
+                />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout_24"
+                android:title="Logout" />
+
+        </menu>
+
+    </item>
+
+</menu>

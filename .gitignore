@@ -1,0 +1,45 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+app/build/
+apk/
+
+# Local configuration files (contains your local SDK path)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/deviceManager.xml
+.idea/render.experimental.xml
+.idea/caches/
+.idea/modules.xml
+.idea/modules/
+*.iml
+*.ipr
+*.iws
+
+# Sensitive Files (Firebase/Google Services)
+# Un-comment the line below if you want to keep your Firebase keys private
+# app/google-services.json
+
+# Keystore files (Used for signing the app)
+*.jks
+*.keystore
+*.pk8
+*.p12
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
